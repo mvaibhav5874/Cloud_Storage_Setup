@@ -36,3 +36,4 @@ ACCESS PERMISSIONS CONFIGURED.
   >The name of the bucket should be within the global namespace
   - Enable Acls
       - By this the objects in the bucket can be owned by other AWS accounts. Access to the bucket and its objects can be specified using ACLs.
+<img src="bucketname.png" height="400" wdith="600" >
