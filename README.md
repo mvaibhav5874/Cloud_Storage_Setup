@@ -57,4 +57,6 @@ ACCESS PERMISSIONS CONFIGURED.
   - Edit the [Bucket policy](permission.JSON)
   - You can write an json code or you can also genrate an code using aws policy genrator.
   - policy genrator is an tools which uses GUI and give you the json code for those permission accrodingly
-  - 
+  - Go to Static website hosting and there would be an Bucket website endpoint access that end point to get to your website which you have hosted
+### Output:
+<img src="Final.png" height="300" wdith="600" >
