@@ -44,7 +44,7 @@ ACCESS PERMISSIONS CONFIGURED.
 
   - You can turn on the bucket versioning for the versions of your files (optional). 
   - Create the bucket with these settings.
-  - access the bucket.
+  - Access the bucket.
   - Get into the propertys tab and scroll down and click on the host static website.    
     1. select on the enable.
     2. select the host a static website.
