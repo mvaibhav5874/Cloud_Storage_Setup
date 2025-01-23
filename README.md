@@ -28,3 +28,8 @@ EXAMPLE FILES UPLOADED AND
 ACCESS PERMISSIONS CONFIGURED.
 
 ### procedure:
+1.Creating an S3 bucket :
+  - Firstly we need to create an S3 bucket
+  - we need to give an name to the bucket.
+>[!WARNING]
+>The name of the bucket to be globally availble .
