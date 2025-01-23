@@ -55,3 +55,6 @@ ACCESS PERMISSIONS CONFIGURED.
 
   - Navigate to the permissions
   - Edit the [bucket policy](permission.JSON)
+  - You can write an json code or you can also genrate an code using aws policy genrator.
+  - policy genrator is an tools which uses GUI and give you the json code for those permission accrodingly
+  - 
