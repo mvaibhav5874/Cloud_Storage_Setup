@@ -30,6 +30,7 @@ ACCESS PERMISSIONS CONFIGURED.
 ### procedure:
 1.Creating an S3 bucket :
   - Firstly we need to create an S3 bucket
-  - we need to give an name to the bucket.
+  - We need to select the purpose of the bucket (Genral purpose)
+  -  we need to give an name to the bucket. (Task-1)
 >[!WARNING]
->The name of the bucket to be globally availble .
+>The name of the bucket should be within the global namespace .
