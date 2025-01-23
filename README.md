@@ -32,7 +32,7 @@ ACCESS PERMISSIONS CONFIGURED.
   - Firstly we need to create an S3 bucket
   - We need to select the purpose of the bucket (Genral purpose)
   - we need to give an name to the bucket. (Task-1)
-  >[!WARNING]
+  >[!NOTE]
   >The name of the bucket should be within the global namespace
   - Enable Acls
       - By this the objects in the bucket can be owned by other AWS accounts. Access to the bucket and its objects can be specified using ACLs.
@@ -41,3 +41,8 @@ ACCESS PERMISSIONS CONFIGURED.
       - this will make the object or the bucket public accessble
       - click the checkbox of warning
     <img src="block_access.png" height="400" wdith="600" > 
+  - You can turn on the bucket versioning for the versions of your files (optional)
+  - Create the bucket with these settings
+  - access the bucket
+  - Get into the propeertys tab and scroll down and click on the host static website
+  - 1. click on the enable 
