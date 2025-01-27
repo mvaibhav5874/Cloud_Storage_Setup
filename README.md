@@ -39,7 +39,8 @@ ACCESS PERMISSIONS CONFIGURED.
     <img src="bucketname.png" height="400" wdith="600" >
   - Turn off block all the public access
       - This will make the object or the bucket public accessble
-      - Click the checkbox of warning
+      - Click the checkbox of warning            
+   
     <img src="block_access.png" height="400" wdith="600" >
 
   - You can turn on the bucket versioning for the versions of your files (optional). 
@@ -50,8 +51,9 @@ ACCESS PERMISSIONS CONFIGURED.
     2. Select the host a static website.
     3. Give the index document of your website or file.
     4. Save the changes.
-  - Upload your files to your s3 bucket
-    <img src="Files_upload.png" height="300" wdith="600" >
+  - Upload your files to your s3 bucket    
+  
+<img src="Files_upload.png" height="300" wdith="600" >
 
   - Navigate to the permissions
   - Edit the [Bucket policy](permission.JSON)
