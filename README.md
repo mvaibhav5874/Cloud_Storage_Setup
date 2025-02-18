@@ -41,9 +41,9 @@ ACCESS PERMISSIONS CONFIGURED.
   
   - Turn off block all the public access
       - This will make the object or the bucket public accessble
-      - Click the checkbox of warning            
-   
-    <img src="block_access.png" height="400" wdith="600" >
+      - Click the checkbox of warning
+
+  <img src="block_access.png" height="400" wdith="600" >
 
   - You can turn on the bucket versioning for the versions of your files (optional). 
   - Create the bucket with these settings.
