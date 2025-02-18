@@ -36,7 +36,9 @@ ACCESS PERMISSIONS CONFIGURED.
   >The name of the bucket should be within the global namespace
   - Enable Acls
       - By this the objects in the bucket can be owned by other AWS accounts. Access to the bucket and its objects can be specified using ACLs.
-    <img src="bucketname.png" height="400" wdith="600" >
+
+     <img src="bucketname.png" height="400" wdith="600" >
+  
   - Turn off block all the public access
       - This will make the object or the bucket public accessble
       - Click the checkbox of warning            
@@ -62,4 +64,5 @@ ACCESS PERMISSIONS CONFIGURED.
   - Policy genrator is an tools which uses GUI and give you the json code for those permission accrodingly
   - Go to Static website hosting and there would be an Bucket website endpoint access that end point to get to your website which you have hosted
 ### Output:
+
 <img src="Final.png" height="300" wdith="600" >
