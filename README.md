@@ -51,7 +51,8 @@ ACCESS PERMISSIONS CONFIGURED.
     2. Select the host a static website.
     3. Give the index document of your website or file.
     4. Save the changes.
-  - Upload your files to your s3 bucket    
+  - Upload your files to your s3 bucket
+  - refre to [static-website](project-2.zip)
   
 <img src="Files_upload.png" height="300" wdith="600" >
 
